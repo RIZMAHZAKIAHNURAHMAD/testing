@@ -1,0 +1,2 @@
+[21-Sep-2023 07:53:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/flashsof/public_html/web/politik/app/infografis/kec.php on line 37
+[21-Sep-2023 07:53:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/flashsof/public_html/web/politik/app/infografis/kec.php on line 86
